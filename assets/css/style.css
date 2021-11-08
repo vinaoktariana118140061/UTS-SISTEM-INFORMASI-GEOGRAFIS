@@ -1299,7 +1299,8 @@ section {
 }
 #map {
 	width:600px;
-	height:400px;	
+	height:400px;
+  margin: auto;	
 }
 .googlemap{
 	margin-top: 15px;
